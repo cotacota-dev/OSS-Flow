@@ -1,0 +1,9 @@
+# instal list
+pandas
+numpy
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg2
+python-dotenv
